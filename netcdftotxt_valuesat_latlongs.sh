@@ -4,6 +4,7 @@
 #Created on Thu Sep 29 12:40:21 2016
 #@author: chinmay deval
 #This script reads the netcdf file and outputs timeseries of the varibale at a given lat long. 
+#Requires: CDO (climate data operator) library  
 ############################################################################################################
 	
 	latitude=("34.3286" "33.2000" "32.6700" "25.2000" "24.0698" "19.2900" "18.7122" "17.6800" "19.6418" "19.0800" "18.5600" "19.2244" "19.0200" "19.3182" "17.5029" "19.1073" "17.4800" \
